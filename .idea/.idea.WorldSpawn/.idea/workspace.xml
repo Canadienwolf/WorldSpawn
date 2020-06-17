@@ -8,17 +8,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/WorldSpawn" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MapGeneration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MeshGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/PolygoGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MapGeneration.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/_Scripts/MapGeneration.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/PolygoGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/MeshGenerator.cs" />
       </list>
     </option>
   </component>
@@ -63,6 +65,7 @@
       <updated>1592306684432</updated>
       <workItem from="1592306689148" duration="294000" />
       <workItem from="1592307090020" duration="2311000" />
+      <workItem from="1592399461783" duration="1657000" />
     </task>
     <servers />
   </component>
