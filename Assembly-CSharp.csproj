@@ -58,9 +58,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\_Scripts\MapGeneration.cs" />
-     <Compile Include="Assets\_Scripts\MeshGenerator.cs" />
-     <Compile Include="Assets\_Scripts\PolygoGenerator.cs" />
+     <Compile Include="Assets\_Scripts\WorldGenerator.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Unity/Projects/Test Projects/WorldSpawn/WorldSpawn/WorldSpawn/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
