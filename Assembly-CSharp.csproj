@@ -58,6 +58,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Sindre\_Scripts_Sindre\TerrainGenerator_Noise.cs" />
      <Compile Include="Assets\_Scripts\WorldGenerator.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Unity/Projects/Test Projects/WorldSpawn/WorldSpawn/WorldSpawn/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
